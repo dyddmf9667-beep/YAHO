@@ -1,0 +1,21 @@
+{
+  "name": "野虎 FC — 야생의 들판 호랑이",
+  "short_name": "野虎 FC",
+  "description": "야생의 들판 호랑이 축구팀 매니지먼트 앱",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#03040c",
+  "theme_color": "#03040c",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 200'%3E%3Ccircle cx='100' cy='100' r='100' fill='%2303040c'/%3E%3Ccircle cx='100' cy='100' r='95' fill='none' stroke='%23d2d6ee' stroke-width='2'/%3E%3Ctext x='100' y='120' text-anchor='middle' font-family='serif' font-size='60' font-weight='900' fill='%23d2d6ee'%3E虎%3C/text%3E%3C/svg%3E",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["sports", "utilities"],
+  "screenshots": []
+}
